@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marco-Scherillo
 - 👀 I’m interested in Computer Science and Algothm Efficiency
 - 🌱 I’m currently learning Computer Science at the New Jersey Institute of Technology.
-- 💞️ I’m looking to collaborate on any intersting projexts that come my way.
+- 💞️ I’m looking to collaborate on any intersting projects that come my way.
 - 📫 How to reach me: marcoscherillo98@gmail.com
 - 😄 Pronouns: he/him
